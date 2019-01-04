@@ -1,0 +1,2 @@
+# Cryptography
+I am Oscar So, a student of Cornell Engineering's class of 2022.   Below, there are files consisting of my recent projects that I would like to share with you. The folder includes some of my ventures and trials in Java Coding using BlueJay with topics like Cryptography and Number Theory.  The main codes are "RSA.class" and "Signature.class", two different ways of encryption and decryption. The wikipedia pages "RSA (cryptosystem)" and "Digital Signature" provides a clear explanation of what I was trying to create. 
